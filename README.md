@@ -25,8 +25,7 @@ A primeira etapa consistiu em navegar pelo painel da AWS e provisionar uma nova 
 *   **Tipo de Instância:** *(Ex: t2.micro - qualificada para o Free Tier)*
 *   **Par de Chaves:** Criado um novo par de chaves `.pem` para garantir o acesso seguro.
 
-*(Opcional: Adicione um print da instância rodando aqui)*
-`![Instância EC2 Rodando](images/ec2-running.png)`
+![Instância EC2 Rodando](images/imagem.png)
 
 ### 2. Configuração de Rede e Segurança (Security Groups)
 Para garantir que a máquina estivesse acessível apenas de forma segura, o Security Group foi configurado com as seguintes regras de entrada (Inbound Rules):
